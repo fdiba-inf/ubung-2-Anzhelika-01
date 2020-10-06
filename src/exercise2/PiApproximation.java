@@ -1,5 +1,5 @@
 package exercise2;
-  public class PiAproximation{
+  public class PiApproximation{
 
     public static void main(String[] args){
 
