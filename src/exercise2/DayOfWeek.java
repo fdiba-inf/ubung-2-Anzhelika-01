@@ -31,7 +31,7 @@ public class DayOfWeek {
           System.out.println("Day of week: Sunday");
       }
       else{
-        System.out.print("Day of week: Invalid day")
+        System.out.print("Day of week: Invalid day");
       }
     }
 }
