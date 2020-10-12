@@ -12,7 +12,7 @@ import java.util.Scanner;
         double c = input.nextDouble();
 
         if(a != 0){
-          double discriminante = b*b+4*a*c;
+          double discriminante = b*b-4*a*c;
           if(discriminante >= 0){
             double x1 =((-b + Math.sqrt(discriminante))/2*a);
             double x2 = ((-b - Math.sqrt(discriminante))/2*a);
